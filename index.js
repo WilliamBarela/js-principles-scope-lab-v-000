@@ -17,6 +17,5 @@ function changeLeastFavoriteCustomer(customer){
 }
 
 function upperCaseCustomerName(){
-  customerName = customerName.toUpperCase;
-  return customerName;
+  customerName.toUpperCase;
 }
